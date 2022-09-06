@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../../layout/custom_preview.xml" value="0.11481481481481481" />
+        <entry key="..\:/Temp/Android-Java/project/Cart_Test/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Temp/Android-Java/project/Cart_Test/app/src/main/res/layout/dialog_menu.xml" value="0.29591321897073664" />
+        <entry key="..\:/Temp/Android-Java/project/Cart_Test/app/src/main/res/layout/layout_cart_test.xml" value="0.29591321897073664" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.234" />
+        <entry key="app/src/main/res/drawable/border_layout.xml" value="0.2205" />
+        <entry key="app/src/main/res/drawable/btn_black.xml" value="0.2205" />
+        <entry key="app/src/main/res/drawable/btn_cart.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/btn_default.xml" value="0.1865" />
+        <entry key="app/src/main/res/drawable/btn_dialog.xml" value="0.3555" />
+        <entry key="app/src/main/res/drawable/btn_dialog_default.xml" value="0.3555" />
+        <entry key="app/src/main/res/drawable/btn_dialog_selected.xml" value="0.3555" />
+        <entry key="app/src/main/res/drawable/btn_menu_default.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/button_roud.xml" value="0.2205" />
+        <entry key="app/src/main/res/drawable/edit_roud.xml" value="0.2205" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.3255" />
+        <entry key="app/src/main/res/drawable/layout_outter.xml" value="0.268" />
+        <entry key="app/src/main/res/drawable/menuBTN_bottom.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/dialog_menu.xml" value="0.13052093505859375" />
+        <entry key="app/src/main/res/layout/dialog_menu01.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/dialog_menu02.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/dialog_menu2.xml" value="0.16952573158425832" />
+        <entry key="app/src/main/res/layout/dialog_menu_test.xml" value="0.2751322751322751" />
+        <entry key="app/src/main/res/layout/fragment_drink.xml" value="0.21" />
+        <entry key="app/src/main/res/layout/fragment_etc.xml" value="0.16952573158425832" />
+        <entry key="app/src/main/res/layout/fragment_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_side.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/layout_cart.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/layout_cart_test.xml" value="0.20015411376953127" />
+        <entry key="app/src/main/res/layout/left_layout.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/menu_detail.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/menu_dialog.xml" value="0.35" />
+        <entry key="app/src/main/res/layout/order_list.xml" value="0.1897644927536232" />
+        <entry key="app/src/main/res/layout/test.xml" value="0.16" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
